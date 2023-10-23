@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'inknut-regular';
+					src: url('1797Inknut-Regular.woff2') format('woff2'),
+						url('1797Inknut-Regular.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.inknut-regular{font-family: 'inknut-regular' !important;}
+
+						h1, h2, h3{
+					font-family: 'inknut-regular' !important;
+				}
+		
